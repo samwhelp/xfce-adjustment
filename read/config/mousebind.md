@@ -29,11 +29,11 @@ parent: Config
 
 ## Window Frame
 
-| Mousebind                     | Action                       |
-| ----------------------------- | ---------------------------- |
-| `Win + [Mouse Left Drag]`     | Move Window                  |
-| `Win + [Mouse Right Drag]`    | Resize Window                |
-| `Win + [Mouse Middle Click]`  | Window Lower and UnFocus     |
+| Mousebind                      | Action                      |
+| ------------------------------ | --------------------------- |
+| `Win + [Mouse Left Drag]`      | Move Window                 |
+| `Win + [Mouse Right Drag]`     | Resize Window               |
+| `Win + [Mouse Middle Click]`   | Window Lower and UnFocus    |
 
 
 ## Window Titlebar
@@ -46,7 +46,7 @@ parent: Config
 | `[Mouse Right Click]`          | Show Client Menu            |
 | `[Mouse Middle Up]`            | Window Shade                |
 | `[Mouse Middle Down]`          | Window UnShade              |
-| `[Mouse Middle Click]`         | Window Lower and UnFocus     |
+| `[Mouse Middle Click]`         | Window Lower and UnFocus    |
 
 
 ## Window Corner or Side
