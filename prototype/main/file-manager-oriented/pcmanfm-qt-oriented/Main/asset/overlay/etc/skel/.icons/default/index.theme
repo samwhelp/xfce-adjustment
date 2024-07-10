@@ -1,0 +1,6 @@
+
+[Icon Theme]
+Name=Default
+Comment=Default cursor theme
+Inherits=breeze_cursors,xcursor-breeze,Breeze,Adwaita
+Size=24
