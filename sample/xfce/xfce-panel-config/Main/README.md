@@ -153,3 +153,17 @@ xfce4-panel --preferences=0
 <property name="mode" type="uint" value="1"/>
 <property name="position" type="string" value="p=2;x=0;y=0"/>
 ```
+
+
+
+## Notice
+
+``` xml
+		<property name="plugin-12" type="string" value="launcher">
+			<property name="items" type="array">
+				<value type="string" value="featherpad.desktop"/>
+			</property>
+		</property>
+```
+
+> run `xfce4-panel -p` failed, if `featherpad.desktop` not exist in `/usr/share/applications/featherpad.desktop`.
