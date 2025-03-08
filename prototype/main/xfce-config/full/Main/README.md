@@ -3,7 +3,7 @@
 # Xfce Config
 
 * [Config File Path](#config-file-path)
-* [Fedora Package](#fedora-package)
+* [Arch Group Package](#arch-group-package)
 * [Usage](#usage)
 
 
@@ -140,22 +140,15 @@
 
 
 
-## Fedora Package
 
-| Fedora Package |
+
+
+
+## Arch Group Package
+
+| Arch Group Package |
 | --- |
-| [xfce4-session](https://packages.fedoraproject.org/pkgs/xfce4-session/xfce4-session/) |
-| [xfce4-panel](https://packages.fedoraproject.org/pkgs/xfce4-panel/xfce4-panel/) |
-| [xfce4-settings](https://packages.fedoraproject.org/pkgs/xfce4-settings/xfce4-settings/) |
-
-
-``` sh
-dnf group info xfce
-```
-
-``` sh
-sudo dnf group install xfce
-```
+| [xfce4](https://archlinux.org/groups/x86_64/xfce4/) |
 
 
 

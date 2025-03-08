@@ -38,7 +38,7 @@
 	</property>
 	<property name="plugins" type="empty">
 		<property name="plugin-1" type="string" value="whiskermenu">
-			<property name="button-icon" type="string" value="application-community"/>
+			<property name="button-icon" type="string" value="xfce4-panel-menu"/>
 			<property name="button-title" type="string" value="Applications"/>
 			<property name="custom-menu" type="bool" value="false"/>
 			<property name="show-button-title" type="bool" value="true"/>
