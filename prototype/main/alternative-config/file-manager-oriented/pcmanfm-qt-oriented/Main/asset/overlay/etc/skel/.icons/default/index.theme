@@ -2,5 +2,5 @@
 [Icon Theme]
 Name=Default
 Comment=Default cursor theme
-Inherits=breeze_cursors,xcursor-breeze,Breeze,Adwaita
+Inherits=breeze_cursors,Adwaita
 Size=24

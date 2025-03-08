@@ -38,7 +38,7 @@
 	</property>
 	<property name="plugins" type="empty">
 		<property name="plugin-1" type="string" value="whiskermenu">
-			<property name="button-icon" type="string" value="application-community"/>
+			<property name="button-icon" type="string" value="xfce4-panel-menu"/>
 			<property name="button-title" type="string" value="Applications"/>
 			<property name="custom-menu" type="bool" value="false"/>
 			<property name="show-button-title" type="bool" value="true"/>
@@ -97,7 +97,7 @@
 		<property name="plugin-10" type="string" value="power-manager-plugin"/>
 		<property name="plugin-11" type="string" value="launcher">
 			<property name="items" type="array">
-				<value type="string" value="pcmanfm-qt.desktop"/>
+				<value type="string" value="thunar.desktop"/>
 			</property>
 		</property>
 		<property name="plugin-12" type="string" value="launcher">
@@ -112,7 +112,7 @@
 		</property>
 		<property name="plugin-14" type="string" value="launcher">
 			<property name="items" type="array">
-				<value type="string" value="sakura.desktop"/>
+				<value type="string" value="xfce4-terminal.desktop"/>
 			</property>
 		</property>
 	</property>
